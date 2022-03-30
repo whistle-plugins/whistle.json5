@@ -15,7 +15,7 @@ w2 i whistle.json5
 
 2. 用 `protocol://$json5/xxx` 代替 `protocol://{xxx}`：
   ``` txt
-  ke.qq.com/test.html file://$json/test.json
+  ke.qq.com/test.html file://$json5/test.json
   ```
 3. 访问 https://ke.qq.com/test.html
 <img width="513" alt="image" src="https://user-images.githubusercontent.com/11450939/159233044-2fc765c2-e4c1-465c-ad15-b9d0235bb437.png">
